@@ -1,5 +1,4 @@
-md
-# Signalist - Real-Time Stock Tracker App
+# Signalist - Real-Time Stock Tracker App (https://signalist-stock-tracker-app-eight.vercel.app)
 
 ## Description
 
@@ -99,17 +98,8 @@ Before you begin, ensure you have the following installed:
    ```
  also run the inngest server
  ```bash
- npx inngest-cli@latest dev                     at   02:27:16 PM
+ npx inngest-cli@latest dev                   
 ```
 5. **Access the Application:**
 
    Open your browser and navigate to `http://localhost:3000` and `https://localhost:8288` to access the application.
-
-## License Information
-
-This project does not currently have a specified license. All rights are reserved by the owner.
-## Acknowledgments
-
-*   [Next.js](https://nextjs.org)
-*   [Inngest](https://www.inngest.com/)
-*   [Tailwind CSS](https://tailwindcss.com/)
